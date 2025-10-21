@@ -1,4 +1,4 @@
-#modulo: in the following code problem solving is to calculate the exact full number per person
+#in the following code problem solving is to calculate the exact full number per person
 #the 500 cannot be devided to 3, we have float, but we want to calculate full numbers
 
 Geld = 500
