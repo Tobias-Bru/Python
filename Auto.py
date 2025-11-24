@@ -1,4 +1,4 @@
-from Database import Database as DB
+from Auto_Database import Database as DB
 
 #class definition Auto extends Database
 class Auto(DB.Database):
